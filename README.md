@@ -35,7 +35,7 @@ rm -rf conform<br>
 git clone https://github.com/snc-web/Facebook_FORGET.git<br>
 cd Facebook_FORGET<br>
 git pull<br>
-python conform.py<br>
+python import.py<br>
 
   
 </h4>
