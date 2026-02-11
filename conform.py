@@ -1,2 +1,2 @@
-import Facebook_FORGET
-Facebook_FORGET.main()
+import main
+main.main()
