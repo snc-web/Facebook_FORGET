@@ -1,0 +1,2 @@
+import functional
+functional.main()
