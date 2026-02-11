@@ -1,2 +1,2 @@
-import main
-main.main()
+import conform
+conform.main()
