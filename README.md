@@ -30,7 +30,10 @@ I focus on building responsive, optimized, and scalable web applications that wo
 <h5>MY COMMAND !!!</h5>
 <h4>
 UPDATE DONE !!!!<br>
-M1/M2/M3 FOR FILE ❤️‍🩹<br>
+FEATURES :- AUTOFORGET🥶<br>
+FEATURES :- AUTO OTP CONFORM❤️‍🔥<br>
+FEATURES :- FILTER NUMBERS💋<br>
+ALL BROWSERS UA/API UPDATED❤️‍🩹<br>
 rm -rf conform<br>
 git clone https://github.com/snc-web/Facebook_FORGET.git<br>
 cd Facebook_FORGET<br>
